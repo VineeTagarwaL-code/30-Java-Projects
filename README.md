@@ -20,6 +20,14 @@ What can you expect from this repository?
 
 Ready to take the plunge? Start exploring, coding, and creating with '30-JAVA-PROJECTS.' Your adventure in Java programming begins here!" 🌟👩‍💻👨‍💻
 
+# Project Structure
+
+We encourage you to maintain a consistent project structure and adhere to best coding practices to keep this repository beginner-friendly. Please follow these guidelines:
+
+    Each project should have its own directory with a clear and descriptive name.
+    Include a README file in each project directory with instructions on how to run and understand the project.
+    Ensure that your code is well-documented and follows best practices for Java development.
+    Test your projects to ensure they work as expected.
 # Contributing to '30-JAVA-PROJECTS'
 
 Thank you for your interest in contributing to '30-JAVA-PROJECTS'! We welcome contributions from beginners and experienced developers alike. Your help is invaluable in making this repository a valuable resource for newcomers to Java and open source.
