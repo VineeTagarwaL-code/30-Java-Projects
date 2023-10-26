@@ -66,3 +66,5 @@ Thank you for your interest in contributing to '30-JAVA-PROJECTS'! We welcome co
 8. Code Review: Your PR will be reviewed by our team. Be prepared to make necessary adjustments if requested.
 
 9. Acceptance: Once your PR is approved and passes any required tests, it will be merged into the main repository.
+
+![Alt](https://repobeats.axiom.co/api/embed/f3eb583e183621a5270fde48289c62f757dc3b54.svg "Repobeats analytics image")
